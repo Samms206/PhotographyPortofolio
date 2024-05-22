@@ -12,7 +12,7 @@ function App() {
     <>
      <Router>
       <Header/>
-      <AnimRoutes></AnimRoutes>
+      <AnimRoutes/>
      </Router>
     </>
   );
